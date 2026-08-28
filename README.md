@@ -82,6 +82,7 @@ Inspired by the `awesome-*` trend.
 
 - [**Metasploit Framework** – Penetration testing and exploit development platform](https://www.metasploit.com)
 - [**Burp Suite CE** – Web vulnerability scanner and proxy](https://portswigger.net/burp)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous AI penetration testing platform: 50+ offensive tools across web, cloud, AD and Kubernetes, self-hosted, the model never receives your real IPs or credentials.
 - [**sqlmap** – Automated SQL injection and database takeover tool](https://github.com/sqlmapproject/sqlmap)
 - [**CrackMapExec** – Swiss Army knife for pentesting Windows/AD](https://github.com/byt3bl33d3r/CrackMapExec)
 - [**Impacket** – Collection of Python classes for network protocols](https://github.com/fortra/impacket)
